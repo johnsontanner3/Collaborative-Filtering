@@ -1,0 +1,60 @@
+1::Patricia Cornwell::Postmortem
+2::Agatha Cristie::The Secret Adversary
+3::John Grisham::The Firm
+4::Douglas Adams::The Hitchhiker's Guide To The Galaxy
+5::Richard Adams::Watership Down
+6::Mitch Albom::The Five People You Meet in Heaven
+7::Laurie Halse Anderson::Speak
+8::Maya Angelou::I Know Why the Caged Bird Sings
+9::Jay Asher::Thirteen Reasons Why
+10::Isaac Asimov::Foundation Series
+11::Ann Brashares::The Sisterhood of the Travelling Pants
+12::Libba Bray::A Great and Terrible Beauty
+13::Dan Brown::The Da Vinci Code
+14::Meg Cabot::The Princess Diaries
+15::Orson Scott Card::Ender's Game
+16::Tom Clancy::The Hunt for Red October
+17::Suzanne Collins::The Hunger Games
+18::F. Scott Fitzgerald::The Great Gatsby
+19::John Flanagan::Ranger's Apprentice Series
+20::Cornelia Funke::Inkheart
+21::William Gibson::Neuromancer
+22::William Golding::Lord of the Flies
+23::William Goldman::The Princess Bride
+24::James Gurney::Dinotopia: A Land Apart from Time
+25::Will Hobbs::Far North
+26::Alice Hoffman::Practical Magic
+27::Aldous Huxley::Brave New World
+28::Guy Gavriel Kay::The Summer Tree
+29::Daniel Keyes::Flowers For Algernon
+30::Patrice Kindl::Owl in Love
+31::Masashi Kishimoto::Naruto
+32::Tite Kubo::Bleach (graphic novel)
+33::Elizabeth Laird::Kiss the Dust
+34::Harper Lee::To Kill a Mockingbird
+35::C S Lewis::The Lion the Witch and the Wardrobe
+36::Robert Ludlum::The Bourne Series
+37::Yann Martel::Life of Pi
+38::Lurlene McDaniel::Breathless
+39::Stephenie Meyer::Twilight Series
+40::Garth Nix::Sabriel
+41::George Orwell::Nineteen Eighty-Four (1984)
+42::Christopher Paolini::Eragon
+43::Gary Paulsen::Hatchet
+44::Jodi Picoult::My Sister's Keeper
+45::Philip Pullman::The Golden Compass
+46::J.K. Rowling::Harry Potter Series
+47::Louis Sachar::Holes
+48::Shueisha::Shonen Jump Series
+49::Neil Shusterman::The Shadow Club
+50::Jeff Smith::Bone Series
+51::Art Spiegelman::Maus: A Survivor's Tale
+52::Amy Tan::The Joy Luck Club
+53::J R R Tolkien::The Lord of the Rings
+54::J R R Tolkien::The Hobbit
+55::Eric Walters::Shattered
+56::H G Wells::The War Of The Worlds
+57::Patricia C. Wrede::Dealing with Dragons
+58::John Wyndham::The Chrysalids
+59::Lee Child::Killing Floor
+60::Michael Connelly::The Black Echo

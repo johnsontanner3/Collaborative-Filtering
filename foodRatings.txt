@@ -1,0 +1,13 @@
+Shirley
+IlForno 3 DivinityCafe 5 McDonalds -1 TheCommons 3 Tandoor 1
+Xiawei
+McDonalds -3 TheCommons 5 DivinityCafe 5 TheSkillet 1 PandaExpress -5
+SoonLee
+DivinityCafe 3 IlForno 1 TheSkillet -1 Tandoor 5 PandaExpress -3
+Bruce
+McDonalds 1 Tandoor 3 DivinityCafe 5 TheCommons 3 TheSkillet 1 IlForno 3 PandaExpress 3
+JoJo
+TheSkillet 1 McDonalds 1 Tandoor 3 PandaExpress 1
+Lee
+TheCommons 3 Tandoor 3 DivinityCafe 5 TheSkillet 3 IlForno 1
+
